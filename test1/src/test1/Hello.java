@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("He's name is Tom.");
 		System.out.println("Her name is Janee");
 		System.out.println("My name is sejin");
+		System.out.println("Ãß°¡");
 
 	}
 
